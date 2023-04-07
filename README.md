@@ -1,0 +1,1 @@
+Funkcja, która przeszukuje tablicę obiektów, zawierających pole name typu string i zwraca największą liczbę.
